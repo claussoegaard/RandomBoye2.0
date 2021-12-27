@@ -3,6 +3,16 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Secrets
+secrets.py
+
+# TinyS2 built-in files
+tinys2.py
+boot_out.txt
+
+# RandomBoye Data
+records.txt
+
 # C extensions
 *.so
 
